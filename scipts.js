@@ -5,7 +5,7 @@ function data(){
 //  1
 
 function main(){
-    console.log("Hello World 1");
+    console.log("hi there");
 }
 // 2
 
